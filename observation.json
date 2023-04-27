@@ -1,0 +1,103 @@
+[
+  {
+    "id": "001",
+    "category": 1,
+    "tags": ["api", "rose"],
+    "image": "https://picsum.photos/1920/1080",
+    "text": "Gli insetti e le piante da fiore sono legati da una relazione di coevoluzione, che comporta sia benefici (impollinazione) che danni (parassitismo) per entrambi ."
+  },
+  {
+    "id": "002",
+    "category": 1,
+    "tags": ["orchidee", "coccinelle", "margherite", "vespe"],
+    "image": "https://picsum.photos/1080/1920",
+    "text": "Gli insetti sono la classe di artropodi più numerosa e diversificata, con oltre un milione di specie descritte."
+  },
+  {
+    "id": "003",
+    "category": 2,
+    "tags": ["farfalle", "girasoli", "formiche"],
+    "image": "https://picsum.photos/1024/1024",
+    "text": "Le piante da fiore sono le piante che producono fiori, organi specializzati nella riproduzione sessuata."
+  },
+  {
+    "id": "004",
+    "category": 0,
+    "tags": [
+      "orchidee",
+      "coccinelle",
+      "margherite",
+      "vespe",
+      "tulipani",
+      "narcisi"
+    ],
+    "image": "https://picsum.photos/1920/1080",
+    "text": "Gli insetti e le piante da fiore si sono adattati reciprocamente nel corso del tempo, dando origine a interazioni ecologiche positive (impollinazione) o negative (parassitismo) per entrambi."
+  },
+  {
+    "id": "005",
+    "category": 2,
+    "tags": ["gerani", "mantidi", "narcisi"],
+    "image": "https://picsum.photos/1920/1080",
+    "text": "L'impollinazione è il processo di trasferimento del polline da un fiore all'altro, che consente la fecondazione e la formazione dei semi."
+  },
+  {
+    "id": "006",
+    "category": 0,
+    "tags": [
+      "api",
+      "farfalle",
+      "orchidee",
+      "coccinelle",
+      "margherite",
+      "lavanda",
+      "scarafaggi",
+      "mantidi",
+      "narcisi"
+    ],
+    "image": "https://picsum.photos/1080/2048",
+    "text": "Molti insetti sono impollinatori, cioè trasportano il polline da un fiore all'altro, favorendo la riproduzione sessuata delle piante. Alcuni esempi di insetti impollinatori sono le api, le farfalle, le coccinelle e le libellule."
+  },
+  {
+    "id": "007",
+    "category": 1,
+    "tags": ["mantidi"],
+    "image": "https://picsum.photos/1920/1080",
+    "text": "Altri insetti sono invece parassiti delle piante, cioè si nutrono delle loro foglie, fiori o frutti, causando danni e malattie. Alcuni esempi di insetti parassiti sono gli acari, gli afidi, la cocciniglia e i bruchi."
+  },
+  {
+    "id": "008",
+    "category": 2,
+    "tags": [],
+    "image": "https://picsum.photos/2048/2048",
+    "text": "Per difendersi dagli insetti parassiti, le piante possono produrre sostanze repellenti o tossiche, oppure attirare insetti predatori o parassitoidi che si nutrono degli insetti dannosi."
+  },
+  {
+    "id": "009",
+    "category": 2,
+    "tags": ["vespe", "tulipani", "libellule", "narcisi"],
+    "image": "https://picsum.photos/1080/1920",
+    "text": "Alcune piante possono anche essere usate dall'uomo per tenere lontani gli insetti fastidiosi dalle case o dai giardini. Alcuni esempi di piante repellenti sono il basilico, il geranio, il rosmarino e i crisantemi."
+  },
+  {
+    "id": "010",
+    "category": 0,
+    "tags": ["api", "rose", "formiche", "orchidee", "coccinelle"],
+    "image": "https://picsum.photos/1080/1920",
+    "text": "Gli insetti possono anche provocare danni alle piante coltivate o utili all'uomo in vari modi: divorando le foglie, i fusti, le radici, i frutti (insetti fillofagi, carpofagi ecc.), scavando gallerie nel legno degli alberi d’alto fusto, oppure nelle foglie (minatori), producendo galle ecc."
+  },
+  {
+    "id": "011",
+    "category": 0,
+    "tags": ["api", "rose", "farfalle", "zanzare", "narcisi"],
+    "image": "https://picsum.photos/1920/1080",
+    "text": "Le piante da fiore hanno una grande varietà di forme e colori dei fiori, che servono a attirare gli insetti pronubi. Alcune piante producono anche profumi particolari e nettare, una soluzione zuccherina che nutre gli insetti."
+  },
+  {
+    "id": "012",
+    "category": 1,
+    "tags": ["vespe", "tulipani", "libellule", "lavanda"],
+    "image": "https://picsum.photos/1080/1920",
+    "text": "Gli insetti possono anche compiere migrazioni di massa su lunghe distanze, sorvolando continenti e oceani. Alcuni esempi di insetti migratori sono le locuste e le farfalle monarca."
+  }
+]
